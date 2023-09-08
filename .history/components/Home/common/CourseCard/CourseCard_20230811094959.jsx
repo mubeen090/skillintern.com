@@ -1,5 +1,5 @@
 import Image from "next/image";
-import styles from "./CourseCard.module.css";
+import styles from "./CourseCard.module.css"; // 
 import Link from "next/link";
 import course from "../../../../public/assets/courseCard/course.png";
 import lessons from "../../../../public/assets/courseCard/lessons.png";
